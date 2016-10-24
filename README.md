@@ -1,0 +1,2 @@
+# templates
+Azure Lab Templates
